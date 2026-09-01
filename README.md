@@ -1,5 +1,8 @@
 # DEM-based hydrological analysis (Eskdale catchment)
 
+![R](https://img.shields.io/badge/R-4.x-276DC3)
+![WhiteboxTools](https://img.shields.io/badge/WhiteboxTools-2.x-9C27B0)
+
 R coursework script that runs a DEM-based drainage analysis of the Eskdale
 catchment using the **WhiteboxTools** engine from R.
 
