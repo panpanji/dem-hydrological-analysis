@@ -1,6 +1,7 @@
-# GEOG70581 — Hydrological modelling practical (Eskdale)
-# =======================================================
-# DEM-based drainage analysis of the Eskdale catchment with WhiteboxTools:
+# DEM-based hydrological analysis (Eskdale catchment)
+# ===================================================
+# Coursework: DEM-based drainage analysis of the Eskdale catchment with
+# WhiteboxTools:
 #
 #   fill depressions -> slope -> D8 flow pointer -> specific contributing
 #   area under three flow-routing algorithms (D8, FD8, D-Infinity),

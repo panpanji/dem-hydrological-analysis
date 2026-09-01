@@ -1,9 +1,7 @@
-# GEOG70581 — Hydrological modelling (Eskdale DEM analysis)
+# DEM-based hydrological analysis (Eskdale catchment)
 
-R script from the University of Manchester MSc module **GEOG70581
-Environmental Monitoring, Modelling and Reconstruction** (Practical 1:
-Eskdale). It runs a DEM-based drainage analysis of the Eskdale catchment
-using the **WhiteboxTools** engine from R.
+R coursework script that runs a DEM-based drainage analysis of the Eskdale
+catchment using the **WhiteboxTools** engine from R.
 
 ## What the script does
 
@@ -43,9 +41,8 @@ source("eskdale_hydrology.R")
 ## Data
 
 * `data/flow_data.csv` — a small example dataset kept for reference.
-* The 10 m DEM (`dem_10m.tif`) is course material from GEOG70581 and is **not
-  included** in this repository; place it in `data/practical_1/` to run the
-  script.
+* The 10 m DEM (`dem_10m.tif`) is course material and is **not included** in
+  this repository; place it in `data/practical_1/` to run the script.
 
 ## License
 
