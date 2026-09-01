@@ -1,0 +1,15 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Outputs (generated at runtime)
+output/
+
+# Large course data (keep the repository light)
+data/practical_1/
+data/practical_2/
+
+# Editors
+.idea/
+.vscode/
